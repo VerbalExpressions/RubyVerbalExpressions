@@ -1,4 +1,4 @@
-VerbalExpressions.rb v0.1.0
+VerbalExpressions.rb v0.1.1
 =====================
 
 ## Ruby Regular Expressions made easy
