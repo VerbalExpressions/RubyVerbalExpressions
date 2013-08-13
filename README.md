@@ -71,4 +71,5 @@ Pull requests are warmly welcomed!
 
 ## Thanks!
 Thank you to @jehna for coming up with the awesome original idea!
-
+## Other implementations  
+You can view all implementations on [VerbalExpressions.github.io](http://VerbalExpressions.github.io)
